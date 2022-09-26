@@ -1,0 +1,4 @@
+testhooks\Hooks.class
+stepdefinitions\LoginSteps.class
+testrunners\TestRunner.class
+stepdefinitions\SearchSteps.class
